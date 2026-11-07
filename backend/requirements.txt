@@ -1,0 +1,4 @@
+flask
+opencv-python
+numpy
+ultralytics   # YOLO (large download: it installs PyTorch). Remove it to use the basic HOG detector.
